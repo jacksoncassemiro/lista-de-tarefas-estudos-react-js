@@ -1,4 +1,6 @@
-# React + Vite
+# Estudo sobre React
+
+Nesse repositório está o projeto desenvolvido no curso de javascript e typescript para compreender o conceito e funcionamento do react usando apenas javascript puro.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

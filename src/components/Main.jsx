@@ -11,11 +11,13 @@ export default class Main extends React.Component {
   };
 
   componentDidMount() {
+    
     const tarefas = JSON.parse(localStorage.getItem("tarefas"));
 
     if (!tarefas) return;
 
     this.setState({ tarefas });
+
   }
 
   componentDidUpdate(prevProps, prevState) {
